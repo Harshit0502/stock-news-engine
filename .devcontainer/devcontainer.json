@@ -1,0 +1,13 @@
+{
+  "name": "StockEngine Dev",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10-bullseye",
+  "features": {
+    "ghcr.io/devcontainers/features/ghcr:1": {}
+  },
+  "postCreateCommand": "sudo apt update && sudo apt install -y cmake g++ libfaiss-dev python3-dev",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  }
+}
