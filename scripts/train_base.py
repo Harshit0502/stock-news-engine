@@ -1,4 +1,7 @@
 import pandas as pd, numpy as np, tensorflow as tf
+import sys, pathlib
+sys.path.append(str(pathlib.Path(__file__).resolve().parent.parent))
+
 from utils.seq_windows import make_windows
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential
