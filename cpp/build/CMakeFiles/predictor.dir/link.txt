@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/predictor.dir/predictor.cpp.o -o predictor   -L/workspaces/stock-news-engine/cpp/onnxruntime-linux-x64-1.17.3/lib  -Wl,-rpath,/workspaces/stock-news-engine/cpp/onnxruntime-linux-x64-1.17.3/lib -lonnxruntime 

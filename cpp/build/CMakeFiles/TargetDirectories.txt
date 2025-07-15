@@ -1,0 +1,3 @@
+/workspaces/stock-news-engine/cpp/build/CMakeFiles/predictor.dir
+/workspaces/stock-news-engine/cpp/build/CMakeFiles/edit_cache.dir
+/workspaces/stock-news-engine/cpp/build/CMakeFiles/rebuild_cache.dir
